@@ -57,7 +57,7 @@ export default function ContactSection() {
             <div className="mt-8 space-y-4 text-muted-foreground">
               <p><strong>Dirección:</strong> Calle Falsa 123, Springfield</p>
               <p><strong>Teléfono:</strong> +1 (555) 123-4567</p>
-              <p><strong>Email:</strong> contacto@AlquilereEquiposJJ.com</p>
+              <p><strong>Email:</strong> walter_vasquez@msn.com</p>
             </div>
           </div>
           <div>

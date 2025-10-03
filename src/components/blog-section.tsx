@@ -11,7 +11,7 @@ export default function BlogSection({ posts }: BlogSectionProps) {
       <div className="container px-4">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="font-headline text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Novedades, Consejos y Tendencias del Sector: <span className="text-primary">Blog AlquilereEquiposJJ</span>
+            Novedades, Consejos y Tendencias del Sector: <span className="text-primary">Blog Alquiler de Equipos J&J</span>
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
             Mantente al día con lo último en tecnología de maquinaria, normativas de seguridad y casos de éxito.
