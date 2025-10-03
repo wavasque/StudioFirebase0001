@@ -55,8 +55,8 @@ export default function ContactSection() {
               Nuestro equipo está listo para asesorarte. Completa el formulario o llámanos directamente. Te ayudaremos a encontrar la solución perfecta para tu proyecto.
             </p>
             <div className="mt-8 space-y-4 text-muted-foreground">
-              <p><strong>Dirección:</strong> Calle Falsa 123, Springfield</p>
-              <p><strong>Teléfono:</strong> +1 (555) 123-4567</p>
+              <p><strong>Dirección:</strong> Lourdes, Colon</p>
+              <p><strong>Teléfono:</strong> +(503) 7051-5082</p>
               <p><strong>Email:</strong> walter_vasquez@msn.com</p>
             </div>
           </div>

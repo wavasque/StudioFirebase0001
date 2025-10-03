@@ -44,7 +44,7 @@ export default function Footer() {
               <h4 className="font-semibold font-headline mb-4">Contacto</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>Lourdes Colon</li>
-                <li>+1(503) 7051-5082</li>
+                <li>+(503) 7051-5082</li>
                 <li>walter_vasquez@msn.com</li>
               </ul>
             </div>
