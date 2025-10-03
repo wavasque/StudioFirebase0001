@@ -1,3 +1,106 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A wide shot of a construction site at dusk, with cranes and machinery.",
+      "imageUrl": "https://images.unsplash.com/photo-1599995903128-531fc7fb694b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fHx8MTc1OTQ1NzA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction site"
+    },
+    {
+      "id": "excavator",
+      "description": "A yellow excavator on a dirt ground.",
+      "imageUrl": "https://images.unsplash.com/photo-1652248718403-354f8394773d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eWVsbG93JTIwZXhjYXZhdG9yfGVufDB8fHx8MTc1OTUxMzczMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yellow excavator"
+    },
+    {
+      "id": "loader",
+      "description": "A front loader moving gravel.",
+      "imageUrl": "https://images.unsplash.com/photo-1717043490123-f28185bdbad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmcm9udCUyMGxvYWRlcnxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "front loader"
+    },
+    {
+      "id": "scissor-lift",
+      "description": "A scissor lift platform extended upwards.",
+      "imageUrl": "https://images.unsplash.com/photo-1657243968297-bb09268d0e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzY2lzc29yJTIwbGlmdHxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scissor lift"
+    },
+    {
+      "id": "generator",
+      "description": "An industrial power generator.",
+      "imageUrl": "https://images.unsplash.com/photo-1731865747195-ecb66c1ccbda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmR1c3RyaWFsJTIwZ2VuZXJhdG9yfGVufDB8fHx8MTc1OTUwNTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "industrial generator"
+    },
+    {
+      "id": "hydraulic-hammer",
+      "description": "A hydraulic hammer attachment for an excavator.",
+      "imageUrl": "https://images.unsplash.com/photo-1665471121431-3c2d30278361?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoeWRyYXVsaWMlMjBoYW1tZXJ8ZW58MHx8fHwxNzU5NTEzNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hydraulic hammer"
+    },
+    {
+      "id": "specialized-bucket",
+      "description": "A specialized bucket for an excavator.",
+      "imageUrl": "https://images.unsplash.com/photo-1627726681529-3053c1b98752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxleGNhdmF0b3IlMjBidWNrZXR8ZW58MHx8fHwxNzU5NTEzNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "excavator bucket"
+    },
+    {
+      "id": "maintenance-service",
+      "description": "A technician performing maintenance on heavy machinery.",
+      "imageUrl": "https://images.unsplash.com/photo-1648214622423-07587f3b3bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlcXVpcG1lbnQlMjBtYWludGVuYW5jZXxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "equipment maintenance"
+    },
+    {
+      "id": "project-planning",
+      "description": "Engineers reviewing blueprints on a construction site.",
+      "imageUrl": "https://images.unsplash.com/photo-1626885930974-4b69aa21bbf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zdHJ1Y3Rpb24lMjBwbGFubmluZ3xlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction planning"
+    },
+    {
+      "id": "operator-training",
+      "description": "A group of people in a safety training session.",
+      "imageUrl": "https://images.unsplash.com/photo-1642873965200-4dd3753336b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzYWZldHklMjB0cmFpbmluZ3xlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "safety training"
+    },
+    {
+      "id": "blog-lift",
+      "description": "A cherry picker lift extended high in the air against a blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1690626159038-981678d5377d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaGVycnklMjBwaWNrZXJ8ZW58MHx8fHwxNzU5NTEzNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cherry picker"
+    },
+    {
+      "id": "blog-efficient",
+      "description": "A modern, sleek piece of construction machinery.",
+      "imageUrl": "https://images.unsplash.com/photo-1662348317573-594daeff9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2Rlcm4lMjBtYWNoaW5lcnl8ZW58MHx8fHwxNzU5NTEzNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern machinery"
+    },
+    {
+      "id": "blog-maintenance",
+      "description": "Close-up of a mechanic's hands working on an engine.",
+      "imageUrl": "https://images.unsplash.com/photo-1758381358962-efc41be53986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZW5naW5lJTIwcmVwYWlyfGVufDB8fHx8MTc1OTUxMzczMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "engine repair"
+    },
+    {
+      "id": "dashboard-stat-1",
+      "description": "A gauge showing high performance",
+      "imageUrl": "https://images.unsplash.com/photo-1602342654726-83c1ea525a9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2F1Z2UlMjBtZXRlcnxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gauge meter"
+    },
+    {
+      "id": "dashboard-stat-2",
+      "description": "Upward trending graph",
+      "imageUrl": "https://images.unsplash.com/photo-1642342488245-0f0fa2ccc940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z3JhcGglMjB1cHxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graph up"
+    },
+    {
+      "id": "dashboard-stat-3",
+      "description": "A calendar with a date circled",
+      "imageUrl": "https://images.unsplash.com/photo-1714685502646-6958268dd349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYWxlbmRhciUyMGRhdGV8ZW58MHx8fHwxNzU5NTEzNzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calendar date"
+    },
+    {
+      "id": "dashboard-stat-4",
+      "description": "People interacting with a website on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1676287571987-2f98ced3e6c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx1c2VyJTIwZW5nYWdlbWVudHxlbnwwfHx8fDE3NTk1MTM3MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "user engagement"
+    }
+  ]
 }
