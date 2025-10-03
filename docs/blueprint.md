@@ -1,4 +1,4 @@
-# **App Name**: ConstructEquip
+# **App Name**: AlquileresEquiposJJ
 
 ## Core Features:
 

@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Wrench className="h-8 w-8 text-primary" />
-              <span className="font-bold font-headline text-2xl">ConstructEquip</span>
+              <span className="font-bold font-headline text-2xl">AlquilereEquiposJJ</span>
             </Link>
             <p className="text-sm text-muted-foreground">Tu socio estratégico en alquiler de equipos de construcción.</p>
           </div>
@@ -45,13 +45,13 @@ export default function Footer() {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>Calle Falsa 123, Springfield</li>
                 <li>+1 (555) 123-4567</li>
-                <li>contacto@constructequip.com</li>
+                <li>contacto@AlquilereEquiposJJ.com</li>
               </ul>
             </div>
           </div>
         </div>
         <div className="mt-8 pt-8 border-t flex flex-col sm:flex-row justify-between items-center">
-          <p className="text-sm text-muted-foreground">&copy; {new Date().getFullYear()} ConstructEquip. Todos los derechos reservados.</p>
+          <p className="text-sm text-muted-foreground">&copy; {new Date().getFullYear()} AlquilereEquiposJJ. Todos los derechos reservados.</p>
           <div className="flex space-x-4 mt-4 sm:mt-0">
             <a href="#" className="text-muted-foreground hover:text-primary"><Facebook className="h-5 w-5" /></a>
             <a href="#" className="text-muted-foreground hover:text-primary"><Linkedin className="h-5 w-5" /></a>

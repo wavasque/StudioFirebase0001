@@ -22,7 +22,7 @@ export default function Header() {
       <div className="container flex h-14 max-w-screen-2xl items-center">
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <Wrench className="h-6 w-6 text-primary" />
-          <span className="font-bold font-headline text-lg">ConstructEquip</span>
+          <span className="font-bold font-headline text-lg">AlquilereEquiposJJ</span>
         </Link>
         <nav className="hidden flex-1 items-center space-x-6 text-sm font-medium md:flex">
           {navLinks.map((link) => (
@@ -55,7 +55,7 @@ export default function Header() {
               <div className="flex items-center justify-between">
                 <Link href="/" className="mr-6 flex items-center space-x-2">
                     <Wrench className="h-6 w-6 text-primary" />
-                    <span className="font-bold font-headline text-lg">ConstructEquip</span>
+                    <span className="font-bold font-headline text-lg">AlquilereEquiposJJ</span>
                 </Link>
                 <Button variant="ghost" className="px-2" onClick={() => setIsMenuOpen(false)}>
                     <X className="h-6 w-6"/>
