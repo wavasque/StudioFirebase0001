@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'ConstructEquip',
+  title: 'AlquileresEquiposJJ',
   description: 'Tu Socio Estratégico en Maquinaria, Accesorios y Servicios Profesionales.',
 };
 
